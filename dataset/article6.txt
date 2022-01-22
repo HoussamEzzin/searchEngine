@@ -1,0 +1,23 @@
+What’s the difference between physics and biology? Take a golf ball and a cannonball and drop them off the Tower of Pisa. The laws of physics allow you to predict their trajectories pretty much as accurately as you could wish for.
+
+Now do the same experiment again, but replace the cannonball with a pigeon.
+
+Biological systems don’t defy physical laws, of course—but neither do they seem to be predicted by them. In contrast, they are goal-directed: survive and reproduce. We can say that they have a purpose—or what philosophers have traditionally called a teleology—that guides their behavior.
+
+By the same token, physics now lets us predict, starting from the state of the universe a billionth of a second after the Big Bang, what it looks like today. But no one imagines that the appearance of the first primitive cells on Earth led predictably to the human race. Laws do not, it seems, dictate the course of evolution.
+
+The teleology and historical contingency of biology, said the evolutionary biologist Ernst Mayr, make it unique among the sciences. Both of these features stem from perhaps biology’s only general guiding principle: evolution. It depends on chance and randomness, but natural selection gives it the appearance of intention and purpose. Animals are drawn to water not by some magnetic attraction, but because of their instinct, their intention, to survive. Legs serve the purpose of, among other things, taking us to the water.
+
+Mayr claimed that these features make biology exceptional—a law unto itself. But recent developments in nonequilibrium physics, complex systems science and information theory are challenging that view.
+
+Once we regard living things as agents performing a computation—collecting and storing information about an unpredictable environment—capacities and considerations such as replication, adaptation, agency, purpose and meaning can be understood as arising not from evolutionary improvisation, but as inevitable corollaries of physical laws. In other words, there appears to be a kind of physics of things doing stuff, and evolving to do stuff. Meaning and intention—thought to be the defining characteristics of living systems—may then emerge naturally through the laws of thermodynamics and statistical mechanics.
+
+This past November, physicists, mathematicians and computer scientists came together with evolutionary and molecular biologists to talk—and sometimes argue—about these ideas at a workshop at the Santa Fe Institute in New Mexico, the mecca for the science of “complex systems.” They asked: Just how special (or not) is biology?
+
+It’s hardly surprising that there was no consensus. But one message that emerged very clearly was that, if there’s a kind of physics behind biological teleology and agency, it has something to do with the same concept that seems to have become installed at the heart of fundamental physics itself: information.
+
+title : How Life (and Death) Spring From Disorder
+
+keywords : science, physics, biology
+
+author : Quanta Magazine
